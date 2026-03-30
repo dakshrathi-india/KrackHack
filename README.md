@@ -478,21 +478,6 @@ All technical details, architectural decisions, and analyses:
 | 7100 | Class 8 | Yellow |
 | 10000 | Class 9 | Cyan |
 
----
-
-## 👥 Team
-
-* **Aryan Sisodiya (Team Leader)**  
-  [InfinityXr9](https://github.com/InfinityXr9)
-
-* **Daksh Rathi**  
-  [dakshrathi-india](https://github.com/dakshrathi-india)
-
-* **Farhan Alam**  
-  [Frozen-afk](https://github.com/Frozen-afk)
-
-* **Tanmay Pratap Singh**  
-  [DhmalTPS](https://github.com/DhmalTPS)
 
 ---
 
