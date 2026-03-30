@@ -600,6 +600,3 @@ checkpoints/
 
 ---
 
-<p style="text-align:center;">
-Made with ❤️ by <b>Aryan Sisodiya</b>, <b>Daksh Rathi</b>, <b>Farhan Alam</b>, and <b>Tanmay Pratap Singh</b> for <b>KrackHack 3.0</b>
-</p>
