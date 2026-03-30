@@ -1,0 +1,11 @@
+tmpclaude-*
+
+.vscode/
+__pycache__/
+.venv/
+venv/
+dataset/
+checkpoints/
+testing_dataset/
+test_predictions/
+.devcontainer/ 
